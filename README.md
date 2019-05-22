@@ -1,4 +1,5 @@
 # b4capp-mssql-to-json-rest-api
+<<<<<<< HEAD
 I published this code for my "portfolio". For eventual recruiters or future colleagues so they can have a look on what I did or tried to do.
 
 That can certainly be improved in many ways but keep in mind that I started from zero with very basic PHP experience and no knowledge about how to handle the requests or structure the files. 
@@ -29,3 +30,4 @@ just contains a phpinfo();
 ### placeholder300200.png
 
 is an image used when the activities are displaying and there is no cover pic
+
