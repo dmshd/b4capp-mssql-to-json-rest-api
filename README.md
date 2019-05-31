@@ -1,4 +1,8 @@
 # b4capp-mssql-to-json-rest-api
+
+The react-native application source code relative to this php api is located and visible here : https://bitbucket.org/danielmuyshond/fetch-data2/src/master/
+The big majority of the code I wrote is located in ./app/auth-flow/screens
+
 I published this code for my "portfolio". For eventual recruiters or future colleagues so they can have a look on what I did or tried to do.
 
 That can certainly be improved in many ways but keep in mind that I started from zero with very basic PHP experience and no knowledge about how to handle the requests or structure the files. 
